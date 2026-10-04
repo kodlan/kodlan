@@ -27,7 +27,7 @@
 +==============================================================================+
 |  CAMPAIGN                                                                    |
 +==============================================================================+
-|  E4  Google ............. Software Engineer, AI Developer Tools Platform     |
+|  E4  Google ............. Software Engineer                                  |
 |  E3  Dell Technologies .. Senior Principal Software Engineer                 |
 |  E2  Oracle ............. Senior Software Engineer                           |
 |  E1  Conscensia, SoftServe .. Senior Software Engineer                       |
@@ -41,7 +41,7 @@
 |  [2] PISTOL ............ Java / Python / Go                                  |
 |  [3] SHOTGUN ........... Distributed systems / Microservices                 |
 |  [4] CHAINGUN .......... Kubernetes / Docker / Helm / Terraform / GCP        |
-|  [5] ROCKET LAUNCHER ... Model serving / Model monitoring / Inference perf   |
+|  [5] ROCKET LAUNCHER ... Model serving / Inference performance               |
 |  [6] PLASMA RIFLE ...... PyTorch / JAX / OpenXLA / vLLM / LLVM / MLIR        |
 |  [7] BFG 9000 .......... CUDA / NCCL / GPU computing                         |
 +==============================================================================+
